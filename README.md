@@ -9,7 +9,7 @@ It does not require an entire post to expire when only one section of the post i
 Example:
 
   <code>[expire exp_on="20300326"]
-  <p>Any content to be expired</p>
+  &lt;p&gt;Any content to be expired&lt;/p&gt;
   [/expire]</code>
 
 This example will be displayed until March 26, 2030. After that time, nothing will show up in its place.
