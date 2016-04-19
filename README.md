@@ -7,8 +7,8 @@ This allows expirations to be possible within text blocks, posts and pages
 It does not require an entire post to expire when only one section of the post is outdated
 
 Example:
-  [expire exp_on="20300326"]
+  <code>[expire exp_on="20300326"]
   <p>Any content to be expired</p>
-  [/expire]
+  [/expire]</code>
 
 This example will be displayed until March 26, 2030. After that time, nothing will show up in its place.
