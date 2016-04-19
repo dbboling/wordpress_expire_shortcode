@@ -13,3 +13,5 @@ Example:
   [/expire]</code>
 
 This example will be displayed until March 26, 2030. After that time, nothing will show up in its place.
+
+I recommend putting the code in your functions.php file, inside your theme's folder.
