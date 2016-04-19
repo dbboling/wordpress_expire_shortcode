@@ -10,4 +10,5 @@ Example:
   [expire exp_on="20300326"]
   <p>Any content to be expired</p>
   [/expire]
+
 This example will be displayed until March 26, 2030. After that time, nothing will show up in its place.
